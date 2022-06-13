@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Angular.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me here or instagram : noontinyy
-- My goal : Aim to be an expert frontend developer! Let's do it!
+- My goal : be an expert frontend developer! Let's do it!
 
 <!---
 noontinyy/noontinyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
